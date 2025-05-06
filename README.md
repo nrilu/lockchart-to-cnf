@@ -4,7 +4,7 @@ An implementation of the SAT encoding of Lock-Chart Master-Key Systems, followin
 
 Allows to define simple lock-charts and to compile them into CNF formulas. 
 
-Verifies and displays the found geometries of keys and locks when given a SAT solver solution. 
+Verifies and displays the found key and lock geometries. 
 
 Submitted to the SAT Competition 2025 Benchmark Submissions.
 
