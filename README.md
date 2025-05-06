@@ -1,6 +1,6 @@
 # lockchart-to-cnf
 
-An implementation of the SAT encoding of Radomír Černoch's ["Lock-chart solving"](https://github.com/cernoch/mks-dis/blob/master/LockChartSolvingWeb.pdf) (2017). 
+An implementation of the SAT encoding of Lock-Chart Master-Key Systems, following Radomír Černoch's ["Lock-chart solving"](https://github.com/cernoch/mks-dis/blob/master/LockChartSolvingWeb.pdf) (2017). 
 
 Allows to define simple lock-charts and to compile them into CNF formulas. 
 
