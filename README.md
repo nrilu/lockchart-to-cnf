@@ -3,7 +3,7 @@
 A simple implementation of compiling Lock-Charts (Master-Key Systems) into SAT CNF formulas. Heavily based on Radomír Černochs ["Lock-chart solving"](https://github.com/cernoch/mks-dis/blob/master/LockChartSolvingWeb.pdf) (2017) and Martin Hořeňovskýs [Performance analysis of a
 master-key system solver](https://codingnest.com/files/thesis.pdf) (2018).
 
-The script ```lockchart_to_cnf.py``` allows to define lock-charts and to compile them into CNF formulas. It then verifies a solution found by a SAT solver and display the found key and lock designs. 
+The script ```lockchart_to_cnf.py``` allows to define a lock-chart and key-constraints and compiles it into a CNF formula. It verifies a solution found by a SAT solver and display the final key and lock designs. 
 
 Submitted to the Benchmark Submissions of the [SAT Competition 2025.](https://satcompetition.github.io/2025/)
 
